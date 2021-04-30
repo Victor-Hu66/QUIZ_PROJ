@@ -17,7 +17,7 @@ class CategoryDetail(generics.ListAPIView):
         return queryset
 class QuizDetail(generics.ListAPIView):
     serializer_class = QuestionSerializer
-    pagination_class = MyPagination
+    # pagination_class = MyPagination
     def get_queryset(self):
         queryset = Question.objects.all()
         title = self.kwargs["title"]
