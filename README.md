@@ -46,7 +46,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project 005 Snapshot](github-job-finder.gif)
+<!-- ![Project 005 Snapshot](github-job-finder.gif) -->
 ![Project 005 Snapshot](AnimatedGIF-downsized.gif)
 
 ## Objective
