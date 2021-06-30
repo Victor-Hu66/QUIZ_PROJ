@@ -7,7 +7,7 @@
 
 Let's create a blog project where users can create posts and publish them on the blog page.You can see a sample blog page in the picture below.
 
-<img src='images/post.jpg' width="200" height="250">
+<img src='images/blog.jpg' width="800" height="600">
 
 ## Problem Statement
 
@@ -17,10 +17,10 @@ Let's create a blog project where users can create posts and publish them on the
 - Login users will be able to create new posts, update and comment on other people's posts.
 
 NavBar ( Logout Users)
-<img src='images/logoutnavbar.jpg' width="400" height="150">
+<img src='images/logoutnavbar.jpg' width="600" height="90">
 
 NavBar ( Login Users)
-<img src='images/loginnavbar.jpg' width="400" height="150">
+<img src='images/loginnavbar.jpg' width="600" height="90">
 
 Post Fields
 - image
@@ -28,7 +28,7 @@ Post Fields
 - Content (abbreviated form)
 - Comment-view-like count icons
 - Publist date
-<img src='images/post.jpg' width="150" height="250">
+<img src='images/post.jpg' width="220" height="350">
 
 
 Post Detail Fields
@@ -40,11 +40,11 @@ Post Detail Fields
 - Comment area
 - Comments ( with comment owner and comment date)
 - Update and Delet Buttons (Only  Visibly to Post Owners )
-<img src='images/postdetail.jpg' width="150" height="250">
+<img src='images/postdetail.jpg' width="350" height="550">
 
 Profile
 - When a user register the profile of that user will be automatically created.  Users can update their profiles.
-<img src='images/profil.jpg' width="300" height="400">
+<img src='images/profil.jpg' width="600" height="500">
 
 ## Project Skeleton
 
