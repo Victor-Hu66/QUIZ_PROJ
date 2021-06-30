@@ -48,6 +48,21 @@ Let's create a blog project where users can create posts and publish them on the
 - When a user register the profile of that user will be automatically created.  Users can update their profiles.
 <img src='images/profil.jpg' width="600" height="500">
 
+### Authentication and authorization : 
+
+Users can be register with their username- email and password. There shoud be forget password option in the login page.
+	
+Login Users : 
+- Users can see the blog page.
+- Users can see the post details
+- Like the posts
+- comment in the post detail
+- create post
+- update and delete own posts
+Logout Users:
+- Users can see the blog page.
+- Users can see the post details (except for comments)
+
 ## Project Skeleton
 
 
@@ -83,7 +98,7 @@ Let's create a blog project where users can create posts and publish them on the
 
 - When you coding your blog app model you can benefit from the structure shown in the picture below
 
- <img src='images/profil.jpg' width="600" height="500">
+ <img src='images/blogmodel.jpg' width="600" height="500">
 
 - Here is the list of packages and dependencies for project
 ```
