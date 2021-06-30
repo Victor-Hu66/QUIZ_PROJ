@@ -1,52 +1,60 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-005 : Github Job Finder (RC-05)
+# Project : Django Blog Project
 
 ## Description
 
-Project aims to create a Github Job Finder App.
+Let's create a blog project where users can create posts and publish them on the blog page.You can see a sample blog page in the picture below.
+
+<img src='images/post.jpg' width="200" height="250">
 
 ## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+- Our project will have registration and login features for users.
+- Users will be able to see the main blog page we mentioned above regardless of whether they are logged in or not.
+- Users will be able to see the details by clicking on the post.
+- Login users will be able to create new posts, update and comment on other people's posts.
+
+NavBar ( Logout Users)
+<img src='images/logoutnavbar.jpg' width="400" height="150">
+
+NavBar ( Login Users)
+<img src='images/loginnavbar.jpg' width="400" height="150">
+
+Post Fields
+- image
+- title	
+- Content (abbreviated form)
+- Comment-view-like count icons
+- Publist date
+<img src='images/post.jpg' width="150" height="250">
+
+
+Post Detail Fields
+- image
+- title	
+- Full content
+- Comment-view-like count icons
+- Like button
+- Comment area
+- Comments ( with comment owner and comment date)
+- Update and Delet Buttons (Only  Visibly to Post Owners )
+<img src='images/postdetail.jpg' width="150" height="250">
+
+Profile
+- When a user register the profile of that user will be automatically created.  Users can update their profiles.
+<img src='images/profil.jpg' width="300" height="400">
 
 ## Project Skeleton
 
-```
-005 - Github Job Finder (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)
-SOLUTION
-├── public
-│     └── index.html
-├── src
-│    ├── components
-│    │       ├── footer
-│    │       │     ├── Footer.css
-│    │       │     └── Footer.js
-│    │       ├── form
-│    │       │     ├── Form.css
-│    │       │     └── Form.js
-│    │       ├── header
-│    │       │     ├── Header.css
-│    │       │     └── Header.js
-│    │       └── jobcard
-│    │             ├── JobCard.css
-│    │             └── JobCard.js
-│    ├── assets.js
-│    │       └── [images]
-│    ├── App.js
-│    ├── App.css
-│    ├── index.js
-│    └── index.css
-├── package.json
-└── yarn.lock
-```
+
+<img src='images/tree.jpg' width="300" height="400">
+
 
 ## Expected Outcome
 
-![Project 005 Snapshot](test.gif)
+![test bu](gifblog.gif)
 
 ## Objective
 
