@@ -52,7 +52,7 @@ Let's create a blog project where users can create posts and publish them on the
 
 Users can be register with their username- email and password. There shoud be forget password option in the login page.
 	
-  Login Users : 
+Login Users : 
 - Users can see the blog page.
 - Users can see the post details
 - Like the posts
@@ -60,7 +60,7 @@ Users can be register with their username- email and password. There shoud be fo
 - create post
 - update and delete own posts
     
-  Logout Users:
+Logout Users :
 - Users can see the blog page.
 - Users can see the post details (except for comments)
 
@@ -99,7 +99,7 @@ Users can be register with their username- email and password. There shoud be fo
 
 - When you coding your blog app model you can benefit from the structure shown in the picture below
 
- <img src='images/blogmodel.jpg' width="600" height="500">
+ <img src='images/blogmodel.jpg' width="7500" height="460">
 
 - Here is the list of packages and dependencies for project
 ```
