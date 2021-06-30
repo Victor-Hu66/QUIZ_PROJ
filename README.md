@@ -52,14 +52,15 @@ Let's create a blog project where users can create posts and publish them on the
 
 Users can be register with their username- email and password. There shoud be forget password option in the login page.
 	
-Login Users : 
+  Login Users : 
 - Users can see the blog page.
 - Users can see the post details
 - Like the posts
 - comment in the post detail
 - create post
 - update and delete own posts
-Logout Users:
+    
+  Logout Users:
 - Users can see the blog page.
 - Users can see the post details (except for comments)
 
